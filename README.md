@@ -128,4 +128,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ---
 
-**AkademiX** - Eğitimde dijital dönüşüm 🎓 
+**AkademiX** - Eğitimde dijital dönüşüm 🎓
+
+<!-- Test push - Write access verification --> 
